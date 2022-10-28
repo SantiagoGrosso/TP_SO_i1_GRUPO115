@@ -1,0 +1,3 @@
+Respuesta a: Sí, alfa ve los datos que cargaron los demás.
+
+Respuesta b: Sí, si alfa agrega un archivo los demás lo ven.
