@@ -1,3 +1,7 @@
 Respuesta a: Sí, alfa ve los datos que cargaron los demás.
 
 Respuesta b: Sí, si alfa agrega un archivo los demás lo ven.
+
+Respuesta c: Si, los demas integrantes pueden ver los archivos.
+
+Respuesta d: WhatsApp y Discord
